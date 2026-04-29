@@ -23,8 +23,13 @@ Com isso, o GoodWezinho combate a falta de informação a respeito dos carregado
 
 # MEMBROS
 Guilherme Figueira Velloso - RM 568827
+
 José Augusto Ribeiro Freire Manfrinato - RM 571151
+
 Lais da Silva Dias - RM 569943
+
 João Augusto Poloniato Telles - RM 571443
+
 Thiago Soalheiro Diamantino - RM 569316
+
 Kauan Damasceno de Lima - RM 573727
